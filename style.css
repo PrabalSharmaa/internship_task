@@ -131,7 +131,7 @@
 #home::before{
     content: '';
     position: absolute;
-    background: url("/static/bg1.jpg") no-repeat center center/cover;
+    background: url("https://raw.githubusercontent.com/PrabalSharmaa/internship_task/main/static/bg1.jpg") no-repeat center center/cover;
     filter: brightness(45%);
     height: 100%;
     width: 100%;
